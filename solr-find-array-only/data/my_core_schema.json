@@ -1,0 +1,11 @@
+{
+  "add-field" : {
+    "name" : "name",
+    "type" : "string"
+  },
+  "add-field" : {
+    "name" : "numbers",
+    "type" : "string",
+    "multiValued" : true
+  }
+}

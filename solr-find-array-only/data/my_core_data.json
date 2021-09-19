@@ -1,0 +1,22 @@
+[
+  {
+     "name": "taro",
+     "numbers": ["1","2"]
+  },
+  {
+     "name": "hanako",
+     "numbers": ["1","4"]
+  },
+  {
+     "name": "ichiro",
+     "numbers": ["1"]
+  },
+  {
+     "name": "shohei",
+     "numbers": ["2","3","4"]
+  },
+  {
+     "name": "saori",
+     "numbers": ["2"]
+  },
+]
